@@ -9,7 +9,7 @@
     "start-server": "node app.js"
   },
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
